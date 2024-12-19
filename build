@@ -1,0 +1,2 @@
+g++ class_object_syntax.cpp -o main
+if ($?) { .\main }
