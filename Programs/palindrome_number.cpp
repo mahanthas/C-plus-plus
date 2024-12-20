@@ -6,7 +6,6 @@
     Input: 1234
     output: Number is not a palindrome
 */
-
 #include <iostream>
 #include <string>
 
