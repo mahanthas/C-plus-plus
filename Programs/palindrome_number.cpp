@@ -1,3 +1,11 @@
+/* Question : Write a program to take a number and check for palindrome or not 
+    
+    Input : 1221
+    output : Number is a palindrome
+    
+    Input: 1234
+    output: Number is not a palindrome
+*/
 #include <iostream>
 #include <string>
 
