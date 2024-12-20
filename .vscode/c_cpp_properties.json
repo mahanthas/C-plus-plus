@@ -10,7 +10,7 @@
                 "UNICODE",
                 "_UNICODE"
             ],
-            "compilerPath": "C:\\FOSSEE\\mingw64\\bin\\gcc.exe",
+            "compilerPath": null,
             "cStandard": "c17",
             "intelliSenseMode": "windows-msvc-x64"
         }
