@@ -1,3 +1,9 @@
+/*
+    In this cpp file you will see the class syntax , how they are used 
+    Methods used in the class
+    Called outside the class
+*/
+
 #include <iostream>
 #include <string>
 
