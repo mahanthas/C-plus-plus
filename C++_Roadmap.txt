@@ -1,0 +1,53 @@
+Learn C++ From Basics to advanced 
+Here is the Roadmap to master all the concepts in c++
+We will go through each concept and an example for it 
+
+How to find the concepts :
+sections --> 1-8
+subsections will be --> 1_1 , 3_1 
+also there will title along with the numbering
+
+ex: 
+1_2 will be --> Features of C++ 
+
+C++ Basics
+1. Introduction to C++
+        Overview and Features of C++
+        Setting up a C++ environment
+        Syntax and Basics
+
+2. Structure of a C++ program
+        Variables, data types, and constants
+        Input/Output operations (cin, cout)
+        Comments in C++
+        Control Flow
+
+3. Decision-making statements (if, else, switch)
+        Loops (for, while, do-while)
+        break, continue, and goto
+        
+4. Functions
+        Function definition, declaration, and calling
+        Function arguments and return values
+        Default arguments, function overloading
+        Recursion
+
+5. Arrays and Strings
+        Single and multidimensional arrays
+        String handling (std::string, cstring functions)
+
+6. Pointers
+        Basics of pointers
+        Pointer arithmetic
+        Dynamic memory allocation (new and delete)
+
+7. Object-Oriented Programming
+        Classes and objects
+        Constructors and destructors
+        Inheritance, polymorphism, encapsulation, and abstraction
+        Friend functions and classes
+
+8. Standard Template Library (STL)
+        Containers: Vector, List, Map, etc.
+        Iterators and algorithms
+        Using STL for efficient programming
