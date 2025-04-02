@@ -6,6 +6,20 @@ Requirement :  Write an Program to display the sizes of datatypes in bytes using
 #include <iostream>
 using namespace std;
 
+struct st{
+    int c;
+    long b;
+    double d;
+    float f;
+};
+
+union u{
+    int c;
+    long b;
+    double d;
+    float f;
+};
+
 int main(){
     cout<<"Display the sizes of datatypes in Bytes"<<endl;
     cout<<"Size of int : "<<sizeof(int)<<endl;
@@ -13,7 +27,10 @@ int main(){
     cout<<"Size of float : "<<sizeof(float)<<endl;
     cout<<"Size of char : "<<sizeof(char)<<endl;
     cout<<"Size of bool : "<<sizeof(bool)<<endl;
+    cout<<"Size of long : "<<sizeof(long)<<endl;
     cout<<"Size of long long : "<<sizeof(long long)<<endl;
+    cout<<"Size of struct : "<<sizeof(st)<<endl;
+    cout<<"Size of union : "<<sizeof(u)<<endl;
 
     return 0;
 }
